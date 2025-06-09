@@ -7,7 +7,7 @@
 
 **`Desenvolvedor FullStack`**
 
-"Olá! Me Chamo Pedro Miguel Aquino, um desenvolvedor de 19 anos, de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI-PE e também na UNIFB.
+"Olá! Me Chamo Pedro Miguel Costa Gomes, um desenvolvedor de 19 anos, de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI-PE e também na UNIFB.
 
 Minha paixão por tecnologia me impulsiona a explorar novas soluções e compartilhar conhecimento. Neste GitHub, você encontrará meus projetos e um pouco da minha jornada no mundo do desenvolvimento. Estudando essas linguagens.
 
