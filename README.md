@@ -146,14 +146,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 <br/>
 <br/>
 
-### 📊 Estatística Das Tecnologias
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/devaqn/count.svg" /></p>
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
