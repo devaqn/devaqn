@@ -15,7 +15,7 @@ Minha paixão por tecnologia me impulsiona a explorar novas soluções e compart
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens:
 
 <img 
     align="left" 
