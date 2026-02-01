@@ -11,7 +11,7 @@
 
 Minha paixão por tecnologia me impulsiona a explorar novas soluções e compartilhar conhecimento. Neste GitHub, você encontrará meus projetos e um pouco da minha jornada no mundo do desenvolvimento. Estudando essas linguagens.
 
-✨ Quer saber mais sobre mim e meu trabalho? [Visite meu portfólio para conhecer meu 'cantinho sobre mim'!"](https://portifoliododev.netlify.app)
+✨ Quer saber mais sobre mim e meu trabalho? [Visite meu portfólio para conhecer meu 'cantinho sobre mim'!"](https://centraldecontatodevaqn.netlify.app)
 
 ---
 
