@@ -110,13 +110,12 @@ I enjoy building **robust APIs**, managing databases, and deploying applications
 ---
 
 ## 🌍 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-miguel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7c1d94?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:pedromiguelaqn@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5581998191625" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
