@@ -130,10 +130,17 @@ I enjoy building **robust APIs**, managing databases, and deploying applications
 
 # 🇧🇷 Sobre Mim
 
-Sou **Pedro Miguel Aquino Costa Gomes**, **Desenvolvedor Back-End Júnior**, com foco em **APIs REST**, **bancos de dados** e **integrações de sistemas**.  
-Tenho experiência prática com **Node.js**, **MySQL**, **Python**, **Linux/VPS** e desenvolvimento de bots e sistemas web completos.
+Sou **Pedro Miguel Aquino Costa Gomes**, **Desenvolvedor Back-End Júnior**, residente em Recife – Pernambuco 🇧🇷.  
+Sou formado em **Análise e Desenvolvimento de Sistemas pelo SENAI-PE** e atualmente curso **Bacharelado em Análise e Desenvolvimento de Sistemas**.
 
-Possuo vivência com **Scrum**, trabalho em equipe e resolução de problemas técnicos, além de experiência anterior com suporte técnico e manutenção de computadores, o que fortaleceu minha base em tecnologia e infraestrutura.
+Meu foco principal é o **desenvolvimento Back-End**, atuando na criação de **APIs REST**, integração com **bancos de dados**, automação de processos e comunicação entre sistemas. Também possuo experiência prática em **Front-End** quando o projeto demanda uma abordagem full stack.
+
+Tenho vivência com o desenvolvimento de **bots automatizados**, integrações com **APIs de terceiros (como WhatsApp API)** e deploy de aplicações em ambientes **Linux/VPS**, sempre prezando por organização, código limpo e boas práticas.
+
+Atuo com tecnologias como **Node.js**, **MySQL**, **Python** e **JavaScript**, além de utilizar ferramentas como **Git**, **Postman** e metodologias ágeis (**Scrum**) no desenvolvimento dos projetos.
+
+Minha experiência anterior com **suporte técnico e manutenção de computadores** contribuiu para uma base sólida em tecnologia, infraestrutura e diagnóstico de sistemas, o que agrega valor ao meu desempenho como desenvolvedor back-end.
 
 🔗 **Portfólio:**  
 👉 https://portfoliodevaqn.netlify.app
+
