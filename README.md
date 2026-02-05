@@ -88,11 +88,6 @@ I enjoy building **robust APIs**, managing databases, and deploying applications
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devaqn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=devaqn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaqn&bg_color=1e293b&color=c084fc&line=c084fc&point=ffffff&hide_border=true" />
 </p>
 
