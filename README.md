@@ -1,158 +1,55 @@
-# 👨🏻‍💻 Devaqn!
+# 👨🏻‍💻 Devaqn
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+Sou+Pedro+Miguel!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Olá,+eu+sou+Pedro+Miguel!+☕💻🚀" alt="Typing SVG">
   </a>
 </p>
 
-**`Desenvolvedor FullStack`**
+### Desenvolvedor Full Stack
 
-"Olá! Me Chamo Pedro Miguel Costa Gomes, um desenvolvedor de 20 anos, de Pernambuco. Atualmente, me formei em Análise e Desenvolvimento de Sistemas no SENAI-PE e estou no 2º periodo de bacharelado na UNIFB.
+Sou **Pedro Miguel Costa Gomes**, desenvolvedor **Full Stack**, natural de Pernambuco 🇧🇷  
+Formado em **Análise e Desenvolvimento de Sistemas pelo SENAI-PE** e atualmente cursando **Bacharelado em Sistemas de Informação na UNIFB**.
 
-Minha paixão por tecnologia me impulsiona a explorar novas soluções e compartilhar conhecimento. Neste GitHub, você encontrará meus projetos e um pouco da minha jornada no mundo do desenvolvimento. Estudando essas linguagens.
+Tenho grande interesse em tecnologia, desenvolvimento de software e resolução de problemas através de código. Estou sempre buscando evoluir tecnicamente, explorar novas ferramentas e transformar ideias em soluções funcionais.
 
-✨ Quer saber mais sobre mim e meu trabalho? [Visite meu portfólio para conhecer meu 'cantinho sobre mim'!"](https://portifoliodevaqn.netlify.app)
+Aqui no GitHub você encontrará projetos que refletem minha evolução como desenvolvedor, estudos práticos e aplicações reais.
+
+🔗 **Quer conhecer mais sobre mim e meus projetos?**  
+👉 [Acesse meu portfólio](https://portifoliodevaqn.netlify.app)
 
 ---
 
-### 🤖 Linguagens:
+## 🛠️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-    align="left" 
-    alt="c#"
-    title="c#" 
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="MySQl" 
-    title="MySQl"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-      
-<img
- align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-          
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+### Linguagens e Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30"/>
+</p>
 
+### Ferramentas & Ambiente
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="30"/>
+</p>
 
- <img
-  align="left" 
-    alt="Pycharm" 
-    title="Pycharm"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-    />
-          
- 
-<img
- align="left" 
-    alt="Eclipse" 
-    title="Eclipse"
-    width="30px" 
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+---
 
-<img
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
- 
-<img align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-        
-          
-
-<br/>
-<br/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/https://github.com/devaqn/https://github.com/devaqn/output/snake.svg" alt="Snake animation" />
-</picture>
-
-
-
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  </picture>
+</p>
