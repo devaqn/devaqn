@@ -1,141 +1,175 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c1d94,100:1e293b&height=220&section=header&text=Pedro%20Miguel%20%7C%20Back-End%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pedro%20Miguel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Back-End%20Developer%20%7C%20AI%20%26%20Automation%20%7C%20Mobile&descSize=18&descAlignY=72&descColor=a78bfa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=700&lines=Junior+Back-End+Developer;APIs+REST+%7C+Databases+%7C+Automation;Node.js+%7C+MySQL+%7C+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&lines=Building+robust+APIs+and+scalable+back-ends;Integrating+AI+into+real-world+applications;Automating+workflows+with+n8n+%26+bots;Developing+mobile+apps+with+Flutter+%2B+Dart;Deploying+on+Linux%2FVPS+environments" />
+</p>
+
+<p align="center">
+  <a href="mailto:pedromiguelaqn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa" />
+  </a>
+  <a href="https://wa.me/5581998191625" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
+  </a>
+  <a href="https://portfoliodevaqn.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=netlify&logoColor=a78bfa" />
+  </a>
+  <a href="https://github.com/devaqn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="175" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Pedro Miguel Aquino Costa Gomes**, a **Junior Back-End Developer** based in Recife, Brazil 🇧🇷.  
-I hold a degree in **Systems Analysis and Development (SENAI-PE)** and I’m currently pursuing a **Bachelor’s degree in Systems Analysis and Development**.
+I'm **Pedro Miguel Aquino Costa Gomes**, a **Back-End Developer** based in **Recife, Brazil 🇧🇷**.
 
-My main focus is **Back-End development**, working with APIs, databases, system integrations and automation.  
-I also have practical experience with **Front-End** when projects require full-stack delivery.
+Graduated in **Systems Analysis and Development (SENAI-PE)**, currently pursuing a **Bachelor's degree in the same field**, I specialize in building reliable back-end systems, intelligent automation pipelines, and AI-powered integrations.
 
-I enjoy building **robust APIs**, managing databases, and deploying applications on **Linux/VPS environments**.
+I enjoy working across the full lifecycle: from designing RESTful APIs and database schemas to deploying production applications on **Linux/VPS environments** — with a growing passion for **mobile development with Flutter** and integrating **AI** into practical, real-world solutions.
 
-🔗 **Portfolio:**  
-👉 https://portfoliodevaqn.netlify.app
+**What I bring to the table:**
+- ✅ Clean, well-documented back-end code
+- ✅ AI & automation integrations (WhatsApp bots, n8n, Gemini, OpenAI)
+- ✅ Cross-platform mobile development with Flutter
+- ✅ Hands-on Linux/VPS deployment experience
+- ✅ Background in technical support → strong debugging & systems thinking
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Back-End & Databases
+### ⚙️ Back-End & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,python,mysql,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,mysql,firebase,linux&theme=dark" />
 </p>
 
-### Front-End (when required)
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+</p>
+
+### 🎨 Front-End
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 </p>
 
-### Tools & Environment
+### 🔧 Tools & Environment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,ubuntu,vscode&theme=dark" />
 </p>
 
 ---
 
+## 🤖 AI & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-0f0c29?style=for-the-badge&logo=openai&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Gemini-0f0c29?style=for-the-badge&logo=google&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/n8n-0f0c29?style=for-the-badge&logo=n8n&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/WAHA-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/MCP%20Servers-0f0c29?style=for-the-badge&logo=anthropic&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Bots-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
+</p>
+
+I build intelligent automation systems that integrate **LLMs, APIs, and real-world workflows** — from conversational WhatsApp bots to full process automation pipelines with n8n and MCP-enabled agents.
+
+---
+
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-0f0c29?style=for-the-badge&logo=flutter&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Dart-0f0c29?style=for-the-badge&logo=dart&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=a78bfa" />
+</p>
+
+Currently developing cross-platform mobile applications with **Flutter + Dart**, integrated with **Firebase** for real-time data, authentication, and cloud storage. Focus on clean architecture and production-ready mobile UX.
+
+---
+
 ## 🚀 Highlighted Projects
 
-### 🤖 AI Financial WhatsApp Bot (VPS & Termux)
-**Tech:** Node.js · Python · WhatsApp API · VPS · Linux  
-- Intelligent WhatsApp bot for personal financial management  
-- Deployed on **VPS** and **Android (Termux)**  
-- Automated responses and financial data analysis  
-- Integration with external APIs
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
----
+### 🤖 AI Financial WhatsApp Assistant
+**`Node.js` `Python` `WhatsApp API` `AI` `VPS` `Linux`**
 
-### 🛒 E-commerce System
-**Tech:** React · Node.js · MySQL  
-- Full e-commerce platform  
-- Product management, shopping cart and order flow  
-- Responsive interface and backend API integration  
-- Payment system under development
+Intelligent WhatsApp bot for personal financial management, powered by AI integrations. Supports automated responses, financial data analysis, and real-time insights. Deployed on **VPS** and **Android (Termux)** for 24/7 availability.
 
----
+</td>
+    <td width="50%" valign="top">
 
 ### 🏛️ Complaint Management System
-**Tech:** Node.js · MySQL · Tailwind CSS  
-- System for registering and tracking complaints  
-- Administrative panel and case management  
-- RESTful API with database integration
+**`Node.js` `MySQL` `Tailwind CSS` `REST API`**
 
----
+Full system for registering, tracking, and managing complaints. Features an administrative panel, case lifecycle management, and a clean RESTful API backed by MySQL.
 
-### 👕 Clothing Store E-commerce
-**Tech:** Java · MySQL  
-- Complete product and stock management  
-- Shopping cart and order system  
-- Backend-focused architecture
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🛒 E-commerce Platform
+**`React` `Node.js` `MySQL`**
+
+Complete e-commerce solution with product management, shopping cart, order flow, and a responsive front-end consuming a dedicated back-end API. Payment system integration in progress.
+
+</td>
+    <td width="50%" valign="top">
+
+### 👕 Clothing Store System
+**`Java` `MySQL`**
+
+Backend-focused system for stock and order management in a clothing retail context. Covers full product lifecycle, inventory control, and order processing.
+
+</td>
+  </tr>
+</table>
 
 📌 *Source code available on GitHub.*
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaqn&bg_color=1e293b&color=c084fc&line=c084fc&point=ffffff&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devaqn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaqn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaqn&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
 
 ---
 
-## 🐍 Contribution Flow
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaqn&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true&area=true&area_color=a78bfa" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+    <img src="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
   </picture>
 </p>
 
 ---
 
-## 🌍 Contact
-  <a href="mailto:pedromiguelaqn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://wa.me/5581998191625" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:7c1d94&height=120&section=footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
 </p>
-
----
-
-# 🇧🇷 Sobre Mim
-
-Sou **Pedro Miguel Aquino Costa Gomes**, **Desenvolvedor Back-End Júnior**, residente em Recife – Pernambuco 🇧🇷.  
-Sou formado em **Análise e Desenvolvimento de Sistemas pelo SENAI-PE** e atualmente curso **Bacharelado em Análise e Desenvolvimento de Sistemas**.
-
-Meu foco principal é o **desenvolvimento Back-End**, atuando na criação de **APIs REST**, integração com **bancos de dados**, automação de processos e comunicação entre sistemas. Também possuo experiência prática em **Front-End** quando o projeto demanda uma abordagem full stack.
-
-Tenho vivência com o desenvolvimento de **bots automatizados**, integrações com **APIs de terceiros (como WhatsApp API)** e deploy de aplicações em ambientes **Linux/VPS**, sempre prezando por organização, código limpo e boas práticas.
-
-Atuo com tecnologias como **Node.js**, **MySQL**, **Python** e **JavaScript**, além de utilizar ferramentas como **Git**, **Postman** e metodologias ágeis (**Scrum**) no desenvolvimento dos projetos.
-
-Minha experiência anterior com **suporte técnico e manutenção de computadores** contribuiu para uma base sólida em tecnologia, infraestrutura e diagnóstico de sistemas, o que agrega valor ao meu desempenho como desenvolvedor back-end.
-
-🔗 **Portfólio:**  
-👉 https://portfoliodevaqn.netlify.app
-
