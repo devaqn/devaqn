@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&lines=Building+SaaS+platforms+with+AI+%28RAG%2C+LLMs%29;Node.js+%7C+TypeScript+%7C+Next.js+%7C+React+%7C+Flutter;Multi-tenant+architecture+%7C+PostgreSQL+%7C+Redis;WhatsApp+bots+%7C+Stripe+%7C+Mercado+Pago;Docker+%7C+Terraform+AWS+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&lines=Building+SaaS+platforms+with+AI+%28RAG%2C+LLMs%29;Node.js+%7C+TypeScript+%7C+Next.js+%7C+React+%7C+Flutter;Multi-tenant+architecture+%7C+PostgreSQL+%7C+Supabase;WhatsApp+bots+%7C+Pix+%7C+Mercado+Pago+%7C+Asaas;Docker+%7C+Nginx+%7C+PM2+%7C+CI%2FCD" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ I'm **Pedro Miguel Aquino Costa Gomes**, a **Full Stack Developer** based in **R
 
 Graduated in **Systems Analysis and Development (SENAI-PE)**, currently pursuing a **Bachelor's degree in the same field**, I specialize in building **SaaS platforms with AI**, scalable back-end systems, and cross-platform mobile applications.
 
-I work across the full lifecycle: from designing **multi-tenant architectures** with PostgreSQL (RLS) and Redis, to building **AI-powered pipelines** with Claude, GPT-4o, and Gemini (RAG, lead scoring, NLP), to deploying on **Docker, Terraform AWS, Vercel**, and **Linux/VPS** environments.
+I work across the full lifecycle: from designing **multi-tenant architectures** with PostgreSQL (RLS) and Redis, to building **AI-powered pipelines** with Claude, GPT-4o, and Gemini (RAG, lead scoring, NLP), to deploying on **Docker, Nginx/PM2, Vercel**, and **Linux/VPS** environments.
 
 **What I bring to the table:**
 - ✅ SaaS multi-tenant platforms with RBAC, JWT, and LGPD compliance
@@ -39,7 +39,7 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
 - ✅ Full-stack e-commerce with Stripe & Mercado Pago (PIX, card tokenization)
 - ✅ WhatsApp bots & automation (Baileys, 40+ commands, lead capture)
 - ✅ Mobile development with Flutter + Firebase (real-time sync, offline support)
-- ✅ DevOps: Docker, Terraform, GitHub Actions CI/CD, PM2
+- ✅ DevOps: Docker, GitHub Actions CI/CD, Nginx, PM2, VPS provisioning
 
 ---
 
@@ -92,7 +92,7 @@ I build **AI-first SaaS platforms** with RAG pipelines (pgvector embeddings), mu
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 AI Sales OS — SaaS Platform
+### 🧠 AI Sales OS — SaaS Platform <sub>`private`</sub>
 **`Next.js 15` `Express 5` `FastAPI` `PostgreSQL+pgvector` `Redis` `RabbitMQ` `Claude/GPT-4o` `Terraform AWS`**
 
 Full CRM with Kanban pipeline, unified WhatsApp inbox, and AI-powered virtual SDR. 8-capability AI engine (RAG, lead scoring, follow-up, sentiment analysis). Multi-tenant with RLS, RBAC, LGPD, 2FA, and 72 automated tests.
@@ -100,7 +100,7 @@ Full CRM with Kanban pipeline, unified WhatsApp inbox, and AI-powered virtual SD
 </td>
     <td width="50%" valign="top">
 
-### 💬 AI Customer Support OS
+### 💬 AI Customer Support OS <sub>`private`</sub>
 **`Next.js 14` `Fastify 5` `PostgreSQL+pgvector` `Redis` `BullMQ` `Socket.io` `Stripe` `Turborepo`**
 
 SaaS customer support platform with autonomous AI via RAG. Real-time inbox (WebSocket), AI supervisor, quality scoring, integrated CRM, and Stripe billing. Multi-provider LLM with fallback. Playwright E2E + OWASP ZAP security scanning.
@@ -110,42 +110,44 @@ SaaS customer support platform with autonomous AI via RAG. Real-time inbox (WebS
   <tr>
     <td width="50%" valign="top">
 
-### 💈 Dom Severu's Barbearia — Mobile App
-**`Flutter 3.x` `Dart` `Firebase Auth` `Cloud Firestore` `SQLite v16` `Mercado Pago`**
+### 💜 [GranaZap](https://github.com/devaqn/Granazap) — Personal Finance on WhatsApp
+**`TypeScript` `Baileys` `Open Finance (Pluggy)` `Claude AI`**
 
-Complete multi-user barbershop management app (v10.1.0). Orders, cash register, inventory with weighted average cost, appointment scheduling with conflict detection, subscriptions via Mercado Pago, real-time Firestore sync with offline SQLite fallback. PDF/CSV/Excel export.
+A financial assistant that lives in your WhatsApp. Connects your bank account through Open Finance, categorizes every transaction with AI, and answers questions about your spending — no dashboard to log into, no spreadsheet to maintain.
 
 </td>
     <td width="50%" valign="top">
 
-### 🖥️ Bot Command Center — DevOps Panel
-**`Node.js` `Express` `SQLite` `PM2 API` `WebSocket` `xterm.js` `Chart.js` `OWASP ZAP`**
+### 🏠 [LocalZap-AI](https://github.com/devaqn/LocalZap-AI) — Self-Hosted AI on WhatsApp
+**`TypeScript` `Baileys` `Local LLM` `Zero API keys`**
 
-Self-hosted web panel to manage, monitor, and deploy Node.js bots via PM2. Real-time metrics (CPU/RAM/network), browser SSH terminal with command whitelist, OWASP security scanning, WhatsApp alerts, and ZIP deploy. RBAC with 3 roles + audit log.
+Your own AI, running on your own machine, answering through your own WhatsApp. No subscription, no API key, no data leaving the computer — the answer to every "AI assistant" that's really just a wrapper around someone else's cloud.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 💎 Anny Makes — E-Commerce + AI Chatbot
-**`Next.js 14` `Express 5` `PostgreSQL+pgvector` `Prisma 5` `Stripe` `Mercado Pago` `Claude AI` `Turborepo`**
+### 🍽️ [MesaZap](https://github.com/devaqn/MesaZap) — QR Menu → Kitchen WhatsApp
+**`TypeScript` `QR Code` `WhatsApp` `No app install`**
 
-Full-stack e-commerce with AI chatbot (Claude), Stripe + Mercado Pago payments (PIX/boleto/card), abandoned cart recovery (Bull + Redis), transactional emails (React Email + Resend), WhatsApp notifications (Z-API), and Cloudflare R2 storage.
+Table QR code opens the menu, the order lands straight in the kitchen's WhatsApp. No delivery-app commission, nothing for the customer to install. Built for the restaurants that can't afford 30% per order.
 
 </td>
     <td width="50%" valign="top">
 
-### 🍣 Sushi House — Delivery Platform
-**`React 18` `TypeScript` `Vite` `Tailwind` `shadcn/ui` `Express 5` `Mercado Pago SDK`**
+### 📦 [Estoque Fácil](https://github.com/devaqn/Estoque-facil-) — Inventory SaaS
+**`Flutter` `Dart` `Cross-platform`**
 
-Delivery e-commerce with 70+ products, PIX checkout (QR Code) and card payment (PCI DSS tokenization), real-time order tracking, geocoding-based shipping calculation, email (SMTP) and SMS (Twilio) notifications, and ESC/POS thermal printing support.
+Inventory management for small businesses — grocery stores, pet-food shops, bakeries, pharmacies. Products, categories, cost/sale price, minimum stock levels and low-stock alerts, built mobile-first for people who run the shop from behind the counter.
 
 </td>
   </tr>
 </table>
 
-📌 *70+ repositories — source code available on GitHub.*
+**More open source:** [BotOps](https://github.com/devaqn/BotOps) (multi-tenant observability for Baileys bots) · [BookViaZap](https://github.com/devaqn/BookViaZap) (embeddable scheduling widget) · [LojaPix](https://github.com/devaqn/LojaPix) (hand-built delivery storefront with real Pix checkout) · [BR-Utils-API](https://github.com/devaqn/BR-Utils-API) (free CPF/CNPJ/CEP/Pix API with live playground) · [Etiqueta Fácil](https://github.com/devaqn/Etiqueta-facil) (EAN-13 / QR label PDFs) · [VPS-Deploy-Kit](https://github.com/devaqn/VPS-Deploy-Kit) (one-command Node bot deploy with PM2 + Nginx + certbot) · [AvaliaZap](https://github.com/devaqn/AvaliaZap) (post-service NPS over WhatsApp)
+
+📌 *90+ repositories — [browse them all](https://github.com/devaqn?tab=repositories).*
 
 ---
 
