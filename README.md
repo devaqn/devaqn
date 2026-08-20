@@ -47,22 +47,22 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
 
 ### ⚙️ Back-End & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,python,postgres,supabase,firebase,prisma,redis,mongodb,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,python,postgres,supabase,firebase,prisma,redis,mongodb,sqlite&theme=dark&v=2" />
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark&v=2" />
 </p>
 
 ### 🎨 Front-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark&v=2" />
 </p>
 
 ### 🔧 DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,git,github,linux,nginx,vercel,netlify,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,git,github,linux,nginx,vercel,netlify,postman,vscode&theme=dark&v=2" />
 </p>
 
 ---
