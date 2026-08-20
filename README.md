@@ -47,7 +47,7 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
 
 ### ⚙️ Back-End & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,python,java,cs,postgres,mongodb,redis,mysql,sqlite,firebase,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,python,postgres,supabase,firebase,prisma,redis,mongodb,sqlite&theme=dark" />
 </p>
 
 ### 📱 Mobile Development
@@ -57,12 +57,12 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
 
 ### 🎨 Front-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" />
 </p>
 
 ### 🔧 DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,git,github,linux,vercel,netlify,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,git,github,linux,nginx,vercel,netlify,postman,vscode&theme=dark" />
 </p>
 
 ---
@@ -76,7 +76,9 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
   <img src="https://img.shields.io/badge/RAG%20%2F%20pgvector-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/Stripe-0f0c29?style=for-the-badge&logo=stripe&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/Mercado%20Pago-0f0c29?style=for-the-badge&logo=mercadopago&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Bots-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Asaas%20Pix-0f0c29?style=for-the-badge&logo=pix&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Open%20Finance%20(Pluggy)-0f0c29?style=for-the-badge&logo=nubank&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Bots%20(Baileys)-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/Socket.io-0f0c29?style=for-the-badge&logo=socketdotio&logoColor=a78bfa" />
 </p>
 
