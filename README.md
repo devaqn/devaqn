@@ -47,7 +47,7 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
 
 ### ⚙️ Back-End & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,js,express,supabase,firebase,postgres,python,sqlite,prisma,redis,mongodb&theme=dark&v=2" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,js,express,supabase,firebase,postgres,python,cs,dotnet,sqlite,prisma,redis,java&theme=dark&v=3" />
 </p>
 
 ### 🎨 Front-End
