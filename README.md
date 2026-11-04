@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pedro%20Miguel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20SaaS%20%7C%20Mobile&descSize=18&descAlignY=72&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pedro%20Miguel&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IA%20%26%20SaaS%20%7C%20Mobile&descSize=18&descAlignY=72&descColor=a78bfa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&lines=Building+SaaS+platforms+with+AI+%28RAG%2C+LLMs%29;Node.js+%7C+TypeScript+%7C+Next.js+%7C+React+%7C+Flutter;Multi-tenant+architecture+%7C+PostgreSQL+%7C+Supabase;WhatsApp+bots+%7C+Pix+%7C+Mercado+Pago+%7C+Asaas;Docker+%7C+Nginx+%7C+PM2+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=a78bfa&center=true&vCenter=true&width=720&lines=Construindo+plataformas+SaaS+com+IA+%28RAG%2C+LLMs%29;Node.js+%7C+TypeScript+%7C+Next.js+%7C+React+%7C+Flutter;Multi-tenant+%7C+PostgreSQL+%7C+Supabase;Bots+de+WhatsApp+%7C+Pix+%7C+Mercado+Pago+%7C+Asaas;Docker+%7C+Nginx+%7C+PM2+%7C+CI%2FCD" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
   </a>
   <a href="https://portfoliodevaqn.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=netlify&logoColor=a78bfa" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0f0c29?style=for-the-badge&logo=netlify&logoColor=a78bfa" />
   </a>
   <a href="https://github.com/devaqn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" />
@@ -23,58 +23,58 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
 <img align="right" height="175" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Pedro Miguel Aquino Costa Gomes**, a **Full Stack Developer** based in **Recife, Brazil 🇧🇷**.
+Sou o **Pedro Miguel Aquino Costa Gomes**, **Full Stack Developer** de **Recife, PE 🇧🇷**.
 
-Graduated in **Systems Analysis and Development (SENAI-PE)**, currently pursuing a **Bachelor's degree in the same field**, I specialize in building **SaaS platforms with AI**, scalable back-end systems, and cross-platform mobile applications.
+Tenho o técnico em **Análise e Desenvolvimento de Sistemas (SENAI-PE)** e sigo no **bacharelado na mesma área**. Meu foco é **plataformas SaaS com IA**, back-ends que aguentam crescer e aplicativos de celular.
 
-I work across the full lifecycle: from designing **multi-tenant architectures** with PostgreSQL (RLS) and Redis, to building **AI-powered pipelines** with Claude, GPT-4o, and Gemini (RAG, lead scoring, NLP), to deploying on **Docker, Nginx/PM2, Vercel**, and **Linux/VPS** environments.
+Trabalho o projeto inteiro: da arquitetura **multi-tenant** com PostgreSQL (RLS) e Redis, passando por **pipelines de IA** com Claude, GPT-4o e Gemini (RAG, pontuação de leads, linguagem natural), até colocar no ar com **Docker, Nginx/PM2, Vercel** e servidores **Linux/VPS**.
 
-Right now I freelance for small local businesses in Brazil: WhatsApp bots, booking and ordering systems, dashboards, and custom-made websites that I build as a demo before any deal is signed.
+Hoje atuo como freelancer para pequenos negócios do Brasil: robôs de WhatsApp, sistemas de agendamento e pedidos, painéis e sites sob medida, que eu monto como demonstração antes de qualquer contrato.
 
-**What I bring to the table:**
-- ✅ SaaS multi-tenant platforms with RBAC, JWT, and LGPD compliance
-- ✅ AI integrations (Claude, GPT-4o, Gemini, RAG with pgvector, NLP)
-- ✅ Full-stack e-commerce with Stripe & Mercado Pago (PIX, card tokenization)
-- ✅ WhatsApp bots & automation (Baileys, 40+ commands, lead capture)
-- ✅ Mobile development with Flutter + Firebase (real-time sync, offline support)
-- ✅ DevOps: Docker, GitHub Actions CI/CD, Nginx, PM2, VPS provisioning
+**O que eu entrego:**
+- ✅ Plataformas SaaS multi-tenant com RBAC, JWT e adequação à LGPD
+- ✅ Integrações de IA (Claude, GPT-4o, Gemini, RAG com pgvector, NLP)
+- ✅ E-commerce completo com Stripe e Mercado Pago (Pix, tokenização de cartão)
+- ✅ Robôs e automações de WhatsApp (Baileys, 40+ comandos, captação de leads)
+- ✅ Apps com Flutter + Firebase (sincronização em tempo real, uso offline)
+- ✅ DevOps: Docker, GitHub Actions (CI/CD), Nginx, PM2, preparação de VPS
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
-### ⚙️ Back-End & Databases
+### ⚙️ Back-end e bancos de dados
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,js,express,supabase,firebase,postgres,python,cs,dotnet,sqlite,prisma,redis,java&theme=dark&v=3" />
 </p>
 
-### 🎨 Front-End
+### 🎨 Front-end
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark&v=2" />
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark&v=2" />
 </p>
 
-### 💻 OS, Environments & IDEs
+### 💻 Sistemas, ambientes e editores
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,vscode,linux,ubuntu,bash,powershell,docker,androidstudio,kali,eclipse&theme=dark&v=2" />
 </p>
 
-### 🔧 DevOps & Tools
+### 🔧 DevOps e ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,netlify,vercel,postman,terraform&theme=dark&v=2" />
 </p>
 
 ---
 
-## 🤖 AI & Integrations
+## 🤖 IA e integrações
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20(Anthropic)-0f0c29?style=for-the-badge&logo=anthropic&logoColor=a78bfa" />
@@ -85,103 +85,111 @@ Right now I freelance for small local businesses in Brazil: WhatsApp bots, booki
   <img src="https://img.shields.io/badge/Mercado%20Pago-0f0c29?style=for-the-badge&logo=mercadopago&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/Asaas%20Pix-0f0c29?style=for-the-badge&logo=pix&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/Open%20Finance%20(Pluggy)-0f0c29?style=for-the-badge&logo=nubank&logoColor=a78bfa" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Bots%20(Baileys)-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Bots%20de%20WhatsApp%20(Baileys)-0f0c29?style=for-the-badge&logo=whatsapp&logoColor=a78bfa" />
   <img src="https://img.shields.io/badge/Socket.io-0f0c29?style=for-the-badge&logo=socketdotio&logoColor=a78bfa" />
 </p>
 
-I build **AI-first SaaS platforms** with RAG pipelines (pgvector embeddings), multi-provider LLM orchestration (Claude → GPT-4o → Gemini with automatic fallback), real-time WebSocket communication, and intelligent WhatsApp bots for lead capture, customer support, and financial management.
+Construo **plataformas SaaS com IA no centro**: busca em documentos com RAG (pgvector), vários provedores de IA em sequência (Claude → GPT-4o → Gemini, com troca automática se um falhar), comunicação em tempo real por WebSocket e robôs de WhatsApp para captar clientes, atender e cuidar de finanças.
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 AI Sales OS — SaaS Platform <sub>`private`</sub>
+### 🧠 AI Sales OS — plataforma SaaS <sub>`privado`</sub>
 **`Next.js 15` `Express 5` `FastAPI` `PostgreSQL+pgvector` `Redis` `RabbitMQ` `Claude/GPT-4o` `Terraform AWS`**
 
-Full CRM with Kanban pipeline, unified WhatsApp inbox, and AI-powered virtual SDR. 8-capability AI engine (RAG, lead scoring, follow-up, sentiment analysis). Multi-tenant with RLS, RBAC, LGPD, 2FA, and 70+ automated tests.
+CRM completo com funil Kanban, caixa de entrada única do WhatsApp e um vendedor virtual com IA. Motor de IA com 8 funções (RAG, nota de lead, follow-up, análise de humor). Multi-tenant com RLS, RBAC, LGPD, 2FA e mais de 70 testes automáticos.
 
 </td>
     <td width="50%" valign="top">
 
-### 💬 AI Customer Support OS <sub>`private`</sub>
+### 💬 AI Customer Support OS <sub>`privado`</sub>
 **`Next.js 14` `Fastify 5` `PostgreSQL+pgvector` `Redis` `BullMQ` `Socket.io` `Stripe` `Turborepo`**
 
-SaaS customer support platform with autonomous AI via RAG. Real-time inbox (WebSocket), AI supervisor, quality scoring, integrated CRM, and Stripe billing. Multi-provider LLM with fallback. 70+ automated tests, Playwright E2E, and OWASP ZAP security scanning.
+Plataforma de atendimento com IA autônoma via RAG. Caixa de entrada em tempo real (WebSocket), supervisor de IA, nota de qualidade, CRM integrado e cobrança pelo Stripe. Vários provedores de IA com troca automática. Mais de 70 testes automáticos, testes de ponta a ponta com Playwright e varredura de segurança com OWASP ZAP.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### ✂️ Dom Severu's Barbearia — Mobile App <sub>`private`</sub>
+### ✂️ Dom Severu's Barbearia — aplicativo <sub>`privado`</sub>
 **`Flutter` `Dart` `Firestore` `Firebase Auth` `SQLite` `Cloud Functions` `Mercado Pago`**
 
-Tabs, cash register, stock, and booking for barbershops, running on the owner's and barbers' phones. Syncs live through Firebase and keeps working offline. Average-cost stock, per-barber commission, double-booking protection, monthly billing via Mercado Pago. 170+ automated tests.
+Comanda, caixa, estoque e agenda de barbearia, no celular do dono e dos barbeiros. Sincroniza ao vivo pelo Firebase e continua funcionando sem internet. Estoque com custo médio, comissão por barbeiro, proteção contra horário duplicado e mensalidade pelo Mercado Pago. Mais de 170 testes automáticos.
 
 </td>
     <td width="50%" valign="top">
 
-### 🖥️ Bot Command Center <sub>`private`</sub>
+### 🖥️ Bot Command Center <sub>`privado`</sub>
 **`Node.js` `Express` `WebSocket` `PM2` `SQLite` `xterm.js` `Chart.js` `Baileys`**
 
-Control panel for WhatsApp bots running on a VPS: live CPU, memory and network charts, a role-restricted terminal in the browser, ZIP upload to update a bot, and a WhatsApp alert when one goes down. Three access roles with a full audit trail.
+Painel de controle para robôs de WhatsApp: gráficos ao vivo de processador, memória e rede, terminal no navegador com comandos limitados por perfil, atualização do robô por arquivo ZIP e aviso no WhatsApp quando um robô para. Três perfis de acesso e histórico de tudo que foi feito.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 💜 [GranaZap](https://github.com/devaqn/Granazap) — Personal Finance on WhatsApp
+### 💜 [GranaZap](https://github.com/devaqn/Granazap) — finanças pessoais no WhatsApp
 **`TypeScript` `Baileys` `Open Finance (Pluggy)` `Claude AI`**
 
-A financial assistant that lives in your WhatsApp. Connects your bank account through Open Finance, categorizes every transaction with AI, and answers questions about your spending — no dashboard to log into, no spreadsheet to maintain.
+Um assistente financeiro que mora no seu WhatsApp. Conecta a conta do banco pelo Open Finance, classifica cada gasto com IA e responde perguntas sobre o seu dinheiro. Sem painel para entrar, sem planilha para manter.
 
 </td>
     <td width="50%" valign="top">
 
-### 🏠 [LocalZap-AI](https://github.com/devaqn/LocalZap-AI) — Self-Hosted AI on WhatsApp
-**`TypeScript` `Baileys` `Local LLM` `Zero API keys`**
+### 🏠 [LocalZap-AI](https://github.com/devaqn/LocalZap-AI) — IA local no WhatsApp
+**`TypeScript` `Baileys` `LLM local` `Sem chave de API`**
 
-Your own AI, running on your own machine, answering through your own WhatsApp. No subscription, no API key, no data leaving the computer — the answer to every "AI assistant" that's really just a wrapper around someone else's cloud.
+Uma IA sua, rodando no seu computador e respondendo pelo seu WhatsApp. Sem assinatura, sem chave de API e sem dado saindo da máquina.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🍽️ [MesaZap](https://github.com/devaqn/MesaZap) — QR Menu → Kitchen WhatsApp
-**`TypeScript` `QR Code` `WhatsApp` `No app install`**
+### 🍽️ [MesaZap](https://github.com/devaqn/MesaZap) — cardápio por QR Code que cai no WhatsApp da cozinha
+**`TypeScript` `QR Code` `WhatsApp` `Sem instalar app`**
 
-Table QR code opens the menu, the order lands straight in the kitchen's WhatsApp. No delivery-app commission, nothing for the customer to install. Built for the restaurants that can't afford 30% per order.
+O QR Code na mesa abre o cardápio e o pedido chega direto no WhatsApp da cozinha. Sem comissão de aplicativo de entrega e sem nada para o cliente instalar. Feito para restaurante que não pode pagar 30% por pedido.
 
 </td>
     <td width="50%" valign="top">
 
-### 📦 [Estoque Fácil](https://github.com/devaqn/Estoque-facil-) — Inventory SaaS
-**`Flutter` `Dart` `Cross-platform`**
+### 📦 [Estoque Fácil](https://github.com/devaqn/Estoque-facil-) — controle de estoque
+**`Flutter` `Dart` `Multiplataforma`**
 
-Inventory management for small businesses — grocery stores, pet-food shops, bakeries, pharmacies. Products, categories, cost/sale price, minimum stock levels and low-stock alerts, built mobile-first for people who run the shop from behind the counter.
+Controle de estoque para pequenos comércios: mercado, casa de ração, padaria, farmácia. Produtos, categorias, preço de custo e de venda, estoque mínimo e alerta de estoque baixo, pensado para o celular de quem toca a loja atrás do balcão.
 
 </td>
   </tr>
 </table>
 
-**More open source:** [BotOps](https://github.com/devaqn/BotOps) (multi-tenant observability for Baileys bots) · [BookViaZap](https://github.com/devaqn/BookViaZap) (embeddable scheduling widget) · [LojaPix](https://github.com/devaqn/LojaPix) (hand-built delivery storefront with real Pix checkout) · [BR-Utils-API](https://github.com/devaqn/BR-Utils-API) (free CPF/CNPJ/CEP/Pix API with live playground) · [Etiqueta Fácil](https://github.com/devaqn/Etiqueta-facil) (EAN-13 / QR label PDFs) · [VPS-Deploy-Kit](https://github.com/devaqn/VPS-Deploy-Kit) (one-command Node bot deploy with PM2 + Nginx + certbot) · [AvaliaZap](https://github.com/devaqn/AvaliaZap) (post-service NPS over WhatsApp) · [FiguraZap](https://github.com/devaqn/FiguraZap) (photo to sticker on WhatsApp) · [Forca-do-WhatsApp](https://github.com/devaqn/Forca-do-WhatsApp) (hangman for group chats) · [Bot Financeiro](https://github.com/devaqn/IAfinanceira-whatsapp-VPS) (personal finance bot in production) · [J.A.R.V.I.S.](https://github.com/devaqn/jarvisplus) (voice assistant for Windows) · [R&M Náutica](https://github.com/devaqn/rmnaut) (nautical parts storefront)
+### Mais projetos de código aberto
 
-📌 *60+ public repositories — [browse them all](https://github.com/devaqn?tab=repositories).*
+- [BotOps](https://github.com/devaqn/BotOps): acompanha os robôs de WhatsApp de vários clientes
+- [BookViaZap](https://github.com/devaqn/BookViaZap): agendamento para colocar no site
+- [LojaPix](https://github.com/devaqn/LojaPix): loja de delivery feita à mão, com pagamento por Pix
+- [BR-Utils-API](https://github.com/devaqn/BR-Utils-API): valida CPF, CNPJ e CEP e gera Pix, de graça
+- [Etiqueta Fácil](https://github.com/devaqn/Etiqueta-facil): etiquetas em PDF com código de barras e QR Code
+- [VPS-Deploy-Kit](https://github.com/devaqn/VPS-Deploy-Kit): coloca um robô Node num servidor com um comando
+- [AvaliaZap](https://github.com/devaqn/AvaliaZap): pede a nota do atendimento pelo WhatsApp
+- [FiguraZap](https://github.com/devaqn/FiguraZap): transforma foto em figurinha
+- [Forca-do-WhatsApp](https://github.com/devaqn/Forca-do-WhatsApp): jogo da forca para grupos
+- [Bot Financeiro](https://github.com/devaqn/IAfinanceira-whatsapp-VPS): controle financeiro pessoal em produção
+- [J.A.R.V.I.S.](https://github.com/devaqn/jarvisplus): assistente de voz para Windows
+- [R&M Náutica](https://github.com/devaqn/rmnaut): loja de peças e acessórios náuticos
+
+📌 *Mais de 60 repositórios públicos. [Veja todos](https://github.com/devaqn?tab=repositories).*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devaqn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaqn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
-</p>
+## 📊 Estatísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=devaqn&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
@@ -189,27 +197,19 @@ Inventory management for small businesses — grocery stores, pet-food shops, ba
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaqn&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true&area=true&area_color=a78bfa" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Cobra das contribuições
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+    <img src="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobra comendo as contribuições" />
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/devaqn/devaqn?style=for-the-badge&label=Last%20updated&labelColor=0f0c29&color=302b63&logo=github&logoColor=a78bfa" alt="Last updated" />
+  <img src="https://img.shields.io/badge/Atualizado%20em-novembro%20de%202026-302b63?style=for-the-badge&labelColor=0f0c29&logo=github&logoColor=a78bfa" alt="Atualizado em novembro de 2026" />
 </p>
 
 <p align="center">
