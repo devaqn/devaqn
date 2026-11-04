@@ -33,6 +33,8 @@ Graduated in **Systems Analysis and Development (SENAI-PE)**, currently pursuing
 
 I work across the full lifecycle: from designing **multi-tenant architectures** with PostgreSQL (RLS) and Redis, to building **AI-powered pipelines** with Claude, GPT-4o, and Gemini (RAG, lead scoring, NLP), to deploying on **Docker, Nginx/PM2, Vercel**, and **Linux/VPS** environments.
 
+Right now I freelance for small local businesses in Brazil: WhatsApp bots, booking and ordering systems, dashboards, and custom-made websites that I build as a demo before any deal is signed.
+
 **What I bring to the table:**
 - ✅ SaaS multi-tenant platforms with RBAC, JWT, and LGPD compliance
 - ✅ AI integrations (Claude, GPT-4o, Gemini, RAG with pgvector, NLP)
@@ -69,6 +71,7 @@ I work across the full lifecycle: from designing **multi-tenant architectures** 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,netlify,vercel,postman,terraform&theme=dark&v=2" />
 </p>
+
 ---
 
 ## 🤖 AI & Integrations
@@ -99,7 +102,7 @@ I build **AI-first SaaS platforms** with RAG pipelines (pgvector embeddings), mu
 ### 🧠 AI Sales OS — SaaS Platform <sub>`private`</sub>
 **`Next.js 15` `Express 5` `FastAPI` `PostgreSQL+pgvector` `Redis` `RabbitMQ` `Claude/GPT-4o` `Terraform AWS`**
 
-Full CRM with Kanban pipeline, unified WhatsApp inbox, and AI-powered virtual SDR. 8-capability AI engine (RAG, lead scoring, follow-up, sentiment analysis). Multi-tenant with RLS, RBAC, LGPD, 2FA, and 72 automated tests.
+Full CRM with Kanban pipeline, unified WhatsApp inbox, and AI-powered virtual SDR. 8-capability AI engine (RAG, lead scoring, follow-up, sentiment analysis). Multi-tenant with RLS, RBAC, LGPD, 2FA, and 70+ automated tests.
 
 </td>
     <td width="50%" valign="top">
@@ -107,7 +110,25 @@ Full CRM with Kanban pipeline, unified WhatsApp inbox, and AI-powered virtual SD
 ### 💬 AI Customer Support OS <sub>`private`</sub>
 **`Next.js 14` `Fastify 5` `PostgreSQL+pgvector` `Redis` `BullMQ` `Socket.io` `Stripe` `Turborepo`**
 
-SaaS customer support platform with autonomous AI via RAG. Real-time inbox (WebSocket), AI supervisor, quality scoring, integrated CRM, and Stripe billing. Multi-provider LLM with fallback. Playwright E2E + OWASP ZAP security scanning.
+SaaS customer support platform with autonomous AI via RAG. Real-time inbox (WebSocket), AI supervisor, quality scoring, integrated CRM, and Stripe billing. Multi-provider LLM with fallback. 70+ automated tests, Playwright E2E, and OWASP ZAP security scanning.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ✂️ Dom Severu's Barbearia — Mobile App <sub>`private`</sub>
+**`Flutter` `Dart` `Firestore` `Firebase Auth` `SQLite` `Cloud Functions` `Mercado Pago`**
+
+Tabs, cash register, stock, and booking for barbershops, running on the owner's and barbers' phones. Syncs live through Firebase and keeps working offline. Average-cost stock, per-barber commission, double-booking protection, monthly billing via Mercado Pago. 170+ automated tests.
+
+</td>
+    <td width="50%" valign="top">
+
+### 🖥️ Bot Command Center <sub>`private`</sub>
+**`Node.js` `Express` `WebSocket` `PM2` `SQLite` `xterm.js` `Chart.js` `Baileys`**
+
+Control panel for WhatsApp bots running on a VPS: live CPU, memory and network charts, a role-restricted terminal in the browser, ZIP upload to update a bot, and a WhatsApp alert when one goes down. Three access roles with a full audit trail.
 
 </td>
   </tr>
@@ -149,9 +170,9 @@ Inventory management for small businesses — grocery stores, pet-food shops, ba
   </tr>
 </table>
 
-**More open source:** [BotOps](https://github.com/devaqn/BotOps) (multi-tenant observability for Baileys bots) · [BookViaZap](https://github.com/devaqn/BookViaZap) (embeddable scheduling widget) · [LojaPix](https://github.com/devaqn/LojaPix) (hand-built delivery storefront with real Pix checkout) · [BR-Utils-API](https://github.com/devaqn/BR-Utils-API) (free CPF/CNPJ/CEP/Pix API with live playground) · [Etiqueta Fácil](https://github.com/devaqn/Etiqueta-facil) (EAN-13 / QR label PDFs) · [VPS-Deploy-Kit](https://github.com/devaqn/VPS-Deploy-Kit) (one-command Node bot deploy with PM2 + Nginx + certbot) · [AvaliaZap](https://github.com/devaqn/AvaliaZap) (post-service NPS over WhatsApp)
+**More open source:** [BotOps](https://github.com/devaqn/BotOps) (multi-tenant observability for Baileys bots) · [BookViaZap](https://github.com/devaqn/BookViaZap) (embeddable scheduling widget) · [LojaPix](https://github.com/devaqn/LojaPix) (hand-built delivery storefront with real Pix checkout) · [BR-Utils-API](https://github.com/devaqn/BR-Utils-API) (free CPF/CNPJ/CEP/Pix API with live playground) · [Etiqueta Fácil](https://github.com/devaqn/Etiqueta-facil) (EAN-13 / QR label PDFs) · [VPS-Deploy-Kit](https://github.com/devaqn/VPS-Deploy-Kit) (one-command Node bot deploy with PM2 + Nginx + certbot) · [AvaliaZap](https://github.com/devaqn/AvaliaZap) (post-service NPS over WhatsApp) · [FiguraZap](https://github.com/devaqn/FiguraZap) (photo to sticker on WhatsApp) · [Forca-do-WhatsApp](https://github.com/devaqn/Forca-do-WhatsApp) (hangman for group chats) · [Bot Financeiro](https://github.com/devaqn/IAfinanceira-whatsapp-VPS) (personal finance bot in production) · [J.A.R.V.I.S.](https://github.com/devaqn/jarvisplus) (voice assistant for Windows) · [R&M Náutica](https://github.com/devaqn/rmnaut) (nautical parts storefront)
 
-📌 *90+ repositories — [browse them all](https://github.com/devaqn?tab=repositories).*
+📌 *60+ public repositories — [browse them all](https://github.com/devaqn?tab=repositories).*
 
 ---
 
@@ -163,7 +184,7 @@ Inventory management for small businesses — grocery stores, pet-food shops, ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaqn&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img src="https://streak-stats.demolab.com/?user=devaqn&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
 
 ---
